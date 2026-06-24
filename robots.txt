@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drploy-fiberflow-kiz.vercel.app/sitemap.xml
